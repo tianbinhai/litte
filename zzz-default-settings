@@ -52,7 +52,7 @@ echo "DISTRIB_DESCRIPTION='google '" >> /etc/openwrt_release
 
 sed -i 's/LuCI Master/by kenzo/g' /usr/lib/lua/luci/version.lua
 sed -i 's/LuCI openwrt-18.06 branch/by kenzo/g' /usr/lib/lua/luci/version.lua
-sed -i 's/LuCI 18-Lienol/by kenzo/g' /usr/lib/lua/luci/version.lua
+sed -i 's/LuCI 17.01 Lienol/by kenzo/g' /usr/lib/lua/luci/version.lua
 sed -i '/luciversion/d' /usr/lib/lua/luci/version.lua
 echo 'luciversion = "Dec"' >> /usr/lib/lua/luci/version.lua
 
