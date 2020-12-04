@@ -1,0 +1,2263 @@
+[33mcommit 697362ca6f8aa2ff2028377d980af39bc0df52fe[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Dec 4 00:57:09 2020 +0800
+
+    v0.41.06
+
+[33mcommit 532c6215f1c2836c0e8ad5b7cfb0c25fa113ea24[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Dec 3 23:46:47 2020 +0800
+
+    add Lienol
+
+[33mcommit 87524e4989c3f425cc1873ca56700600cf922c70[m
+Author: 有種 <39034242+kenzok8@users.noreply.github.com>
+Date:   Thu Dec 3 03:41:51 2020 +0800
+
+    Update default-settings
+
+[33mcommit 5aed4ea24ea6e62ce52baf63e620d91330133fd2[m
+Author: 有種 <39034242+kenzok8@users.noreply.github.com>
+Date:   Thu Dec 3 03:40:47 2020 +0800
+
+    Update zzz-default-settings
+
+[33mcommit bea3bdb22bc85d16e4f7480c7fb788abb032ec29[m
+Author: 有種 <39034242+kenzok8@users.noreply.github.com>
+Date:   Wed Dec 2 21:06:32 2020 +0800
+
+    Update ctc-default-settings
+
+[33mcommit 57d6893dae0a9dda0d1f9eef7dc8962d2201be84[m
+Author: 有種 <39034242+kenzok8@users.noreply.github.com>
+Date:   Wed Dec 2 21:05:01 2020 +0800
+
+    Update default-settings
+
+[33mcommit b8b7c78ccc332558ff57a2127859a57e52ab5749[m
+Author: 有種 <39034242+kenzok8@users.noreply.github.com>
+Date:   Wed Dec 2 21:04:22 2020 +0800
+
+    Update zzz-default-settings
+
+[33mcommit 39f9e1e7c470bf388d76141b36832f0b7e37fa8d[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Dec 1 22:10:36 2020 +0800
+
+    update zzz
+
+[33mcommit c5be751d4e490ed872cb33f66a6d5634db7e257f[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Nov 30 15:14:03 2020 +0800
+
+    luci: fix #757
+
+[33mcommit c16637612a1f0eba9324bf9c819178c4fafeee0a[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Nov 29 16:59:01 2020 +0800
+
+    luci: 3.9-76
+
+[33mcommit 01d0f48a1a4ac7f973e8c28a283be105bbcf7db3[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Nov 29 15:02:40 2020 +0800
+
+    Merge pull request #232 from Mattraks/dev/mkcp
+
+[33mcommit 6af43cc8837b571c79074710a9c947f4a3389edb[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Nov 26 16:21:04 2020 +0800
+
+    Update v87.0.4280.66-1
+
+[33mcommit 90ec5e30e7c8c2b5793b07200ddcac73fb20baef[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Nov 26 16:05:28 2020 +0800
+
+    Update v0.41.04-beta
+
+[33mcommit ba998cc96e34e009fad96c98e54556250e1936d9[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Nov 23 18:11:51 2020 +0800
+
+    Update AdGuardHome 0.104.3
+
+[33mcommit d24a495c2890d163206b693f4ab1e2837e4de45d[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Nov 21 15:01:11 2020 +0800
+
+    Update openclash v0.41.02-beta
+
+[33mcommit 22e0d86f2a2204cd8cc8a2d6d1a2990e20e7fc85[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Nov 16 19:55:23 2020 +0800
+
+    Update lhie1.yaml (#982)
+
+[33mcommit 971943661029df81e6dc2ba03435206b9836da9c[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Nov 15 23:49:09 2020 +0800
+
+    update AdGuard Home v0.104.1
+
+[33mcommit 8acd2bbc7ca163920941596577efc5a60283ba06[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Nov 15 22:02:45 2020 +0800
+
+    luci-app-ssr-plus: sync with upstream source
+
+[33mcommit ade5bb83387ba53811a982afd69374b06d3a8ab4[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Nov 11 16:53:36 2020 +0800
+
+    add 文件权限
+
+[33mcommit 5131ee0550ae29c7d3807959788091bc423aa3ee[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Nov 11 15:18:44 2020 +0800
+
+    add ctc-zzz
+
+[33mcommit 358f5fdce807ee9bdee64cd99d65769bde03b997[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Nov 11 09:31:00 2020 +0800
+
+    update JD签到
+
+[33mcommit 8e48830e96862c27cca0cb53d08960fb6c666723[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Nov 10 19:13:19 2020 +0800
+
+    add R2Sdiffconfig
+
+[33mcommit 90c7a1f0ba5c8c7f77ea1a65faea49f00618ecef[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Nov 8 22:23:15 2020 +0800
+
+    luci-app-ssr-plus: bump to 181-1
+
+[33mcommit a55d18bce46d0a5f566c44ae42a3a17297d5a6d1[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Nov 4 21:40:48 2020 +0800
+
+    修复 naiveproxy
+
+[33mcommit e4c10bd32213a1bb62882f8865461abb9bb41fe0[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Nov 2 19:31:56 2020 +0800
+
+    update openclash v0.40.15-beta
+
+[33mcommit 6bb73ac51b1a7646057d12e98610961987a8afa2[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Nov 2 00:49:14 2020 +0800
+
+    update ADG ，update zzz
+
+[33mcommit 1438306712af43492554e619113cb64394e4248f[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Oct 29 23:51:33 2020 +0800
+
+    uapdate edge
+
+[33mcommit 3678c753e3df97c5dc1eb9b5944c53f709c62197[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Oct 27 19:24:48 2020 +0800
+
+    add new theme
+
+[33mcommit 142758f8eeacc3b73e771fa8b32fdc85c382965f[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Oct 27 19:23:26 2020 +0800
+
+    uapdate smartdns 9.2020.24.1
+
+[33mcommit 45a0570455650bf5002468aad4fbbf75fb780f19[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Oct 27 17:48:54 2020 +0800
+
+    uapdate naiveproxy
+
+[33mcommit 31be77b0e53234d38a3cf42897d4ba5c6601c237[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Oct 27 17:35:20 2020 +0800
+
+    uapdate edge主题
+
+[33mcommit 65da4ed9265d4264e76f6cf25c654eac37f0f4f7[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Oct 27 17:29:40 2020 +0800
+
+    uapdate JD签到0.8.6
+
+[33mcommit d6c530d6086348b47ed6f9cf26d8073454b18f1b[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Oct 27 00:41:19 2020 +0800
+
+    uapdate openclash v0.40.14-beta
+
+[33mcommit 53f07a9b00220028c4ef7846a73f15216f99005b[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Oct 26 14:11:54 2020 +0800
+
+    uapdate passwall
+
+[33mcommit c47a4f96f62fe5010f525f5e7bc9d5f45d42125f[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Oct 25 14:44:11 2020 +0800
+
+    uapdate openclash: 0.40.13-bate
+
+[33mcommit 4f801d3b04325bb06c4e56992f3413c12ea1dc69[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Oct 24 15:13:10 2020 +0800
+
+    uapdate passwall: Update test.sh
+
+[33mcommit 72a8fd9778dd0990ff05c61ab772a8e335e86dac[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Oct 24 14:52:21 2020 +0800
+
+    openclash uapdate 0.40.13-beta
+
+[33mcommit 28a1cbbba4c41d6715801f644f2fec32fb478c8b[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Oct 23 16:09:18 2020 +0800
+
+    openclash uapdate v0.40.12-beta
+
+[33mcommit 2c0748ede6a320b0ab7c446595003e79430ee32d[m
+Author: 有種 <39034242+kenzok8@users.noreply.github.com>
+Date:   Thu Oct 22 23:37:47 2020 +0800
+
+    Delete .gitignore
+
+[33mcommit 9a0ffd335f8580b2bc4d096cc7e267f2442f14e1[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Oct 22 19:03:23 2020 +0800
+
+    argon主题老竭力蓝+Lienol紫
+
+[33mcommit c07ae588ba88b5fa3b26d37851058c67d406539f[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Oct 20 21:53:25 2020 +0800
+
+    update openclash 0.40.11-beta
+
+[33mcommit fa85c33fa4f7659211a9eab1500ad24be31ad4ab[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Oct 19 14:51:37 2020 +0800
+
+    update ctc配置
+
+[33mcommit e4861b205504ae7c3a18b685e4802a007e15afbc[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Oct 18 14:36:07 2020 +0800
+
+    update JD签到 0.8.5
+
+[33mcommit 830c63ea6656a003fb6515378c4c81ee1f91f387[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Oct 16 01:21:54 2020 +0800
+
+    fix 86.0.4240.75-1.1
+
+[33mcommit 718132cedce10f330ab0129b0d74e294643c474e[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Oct 16 01:20:48 2020 +0800
+
+    86.0.4240.75-1.1
+
+[33mcommit 0300d95e65ce842080818d574852a706d98aa90d[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Oct 16 00:39:08 2020 +0800
+
+    回退85.0.4183.83-4.1
+
+[33mcommit fd8cf217c10dc82998d2530ddae14abe348ce654[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Oct 16 00:32:21 2020 +0800
+
+    回退85.0.4183.83-4.1
+
+[33mcommit 1b8c0c1c7f03716a5910763a29e311d98f09a1f2[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Oct 15 20:41:41 2020 +0800
+
+    luci-app-ssr-plus: bump to 180-10
+
+[33mcommit bbaf9be0f18631a11c09003d7526fe1af518e6dc[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Oct 15 20:22:09 2020 +0800
+
+     fix
+
+[33mcommit 37c3c852f5047783cb512c3eaf01f50394779ac0[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Oct 14 21:54:54 2020 +0800
+
+     openclash_0.40.10-beta
+
+[33mcommit e90fb474771b0b4af7b4058fa15b2003f9f3aab8[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Oct 14 16:06:19 2020 +0800
+
+     fix naiveproxy
+
+[33mcommit abc4d0866ae73fd0ef753ac940a34a9888dda1fc[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Oct 14 14:00:32 2020 +0800
+
+     passwall update 3.9.73
+
+[33mcommit 52580d78503e64b915dcea45de25f10783a99443[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Oct 12 20:29:24 2020 +0800
+
+     passwall update 3.9.72
+
+[33mcommit b531b4a96d8e7936467e85279e49daa27b2a7630[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Oct 11 15:49:10 2020 +0800
+
+    diffconfig update
+
+[33mcommit a7c9923d1722fd79b70d36eaaf11ab682a21d5d8[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Oct 11 15:41:16 2020 +0800
+
+    update ssr-plus 180.9
+
+[33mcommit 434ddc18a59bcd15c46a1cf7471af306adbd6ff7[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Oct 9 18:54:55 2020 +0800
+
+    passwall update 3.9.70
+
+[33mcommit f4b7595cd2f38b59f6998ea6f8c29e8ddfdaa071[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Oct 6 15:30:44 2020 +0800
+
+    passwall update 3.9.68
+
+[33mcommit 8f109db3809b173fe2ac0bb5280355545b59b985[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Oct 4 00:52:08 2020 +0800
+
+    passwall: enhance shunt
+
+[33mcommit f3da55699d389b54e42bec6d8ec87e5e8a6f7b5a[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Oct 3 21:30:57 2020 +0800
+
+    passwall: optimize options
+
+[33mcommit 1570c363d78feb14a6ee1646c977d3b3f2157304[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Oct 3 21:00:39 2020 +0800
+
+    passwall: optimize options
+
+[33mcommit 8ef18a4d31b569065e86cf1e004c96798e3c5755[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Oct 2 23:37:56 2020 +0800
+
+    fix JD签到
+
+[33mcommit d60c1759b6b927859e44bd1c807d9fefdd8b71ec[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Oct 2 21:56:01 2020 +0800
+
+    update zzz
+
+[33mcommit c68950c161f1ae0d9456f383714838a6b70194db[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Sep 25 19:54:24 2020 +0800
+
+    修复文件权限 775
+
+[33mcommit ff953f593b87998f89f30ab7091edf09969666ce[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Sep 25 19:46:50 2020 +0800
+
+    passwall: fix brook status
+
+[33mcommit b914f8c24c84d7b0bb232045588604621e70e6a6[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Sep 24 19:19:20 2020 +0800
+
+    update 京东签到
+
+[33mcommit 74fabebd7d43991e949e1e0a3094d4314dd19e62[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Sep 24 19:16:56 2020 +0800
+
+    update openclash0.40.6-beta
+
+[33mcommit 19590d9f7794f397b1decdb15368ca3bf102020d[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Sep 20 22:05:48 2020 +0800
+
+    passwall: simplified code
+
+[33mcommit 6c9463004bc21e4eabb5f1a6e2eed71bc30ff633[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Sep 18 15:37:51 2020 +0800
+
+    passwall: add naiveproxy option
+
+[33mcommit 96f293d5dddd22327ac694f95800593feeaa43e2[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Sep 15 22:12:07 2020 +0800
+
+    修Bug+简单分流
+
+[33mcommit 7529f474e79a9966820b554af537e3e685c35828[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Sep 15 14:18:35 2020 +0800
+
+    update zzz
+
+[33mcommit 9ce6beee56fdb8683ae3bdc64f47df9d76fa2a45[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Sep 13 20:35:29 2020 +0800
+
+    Update cookie_tools.htm
+
+[33mcommit ce825b969937471bbad81ee6cb71135e54d09bef[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Sep 13 20:22:27 2020 +0800
+
+    update v0.40.3-beta
+
+[33mcommit cee267b221afe34db625825becb5fda8e8fdba52[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Sep 13 15:06:53 2020 +0800
+
+    passwall: optimize log output
+
+[33mcommit 1c2c422026429d538b835a0452365e5bf436492a[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Sep 13 15:04:13 2020 +0800
+
+    update ssr 180.8
+
+[33mcommit d9986e53caa01852eb49616fc7a0895c167b7c0d[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Sep 10 14:48:18 2020 +0800
+
+    update
+
+[33mcommit 3c376ebd518de46bdd1097a3128f2197297f9dcf[m
+Author: 有種 <39034242+kenzok8@users.noreply.github.com>
+Date:   Thu Sep 10 14:40:17 2020 +0800
+
+    Update banner
+
+[33mcommit 278cff4c979ed35cfef2e5b2920d81f6b1914259[m
+Author: 有種 <39034242+kenzok8@users.noreply.github.com>
+Date:   Thu Sep 10 14:39:45 2020 +0800
+
+    Update default-settings
+
+[33mcommit 2465012c91f6faed1266712b12b0c50b015656e8[m
+Author: 有種 <39034242+kenzok8@users.noreply.github.com>
+Date:   Thu Sep 10 14:39:09 2020 +0800
+
+    Update zzz-default-settings
+
+[33mcommit 0adae0713d3c4c87e7c0fa611423882b334e0406[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Sep 7 22:53:29 2020 +0800
+
+    passwall: server: readd support SS && Socks
+
+[33mcommit 613a8d37d7104a7f05b80ad16e4235455505f87f[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Sep 7 02:01:08 2020 +0800
+
+    update ssr plus 180.7
+
+[33mcommit 2f89256222be22148a8ead11889dd5f0753e5624[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Sep 7 01:55:44 2020 +0800
+
+    passwall: server: Fix #658
+
+[33mcommit b733ace52e3102076d37e80ead652664497e6649[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Sep 4 15:21:56 2020 +0800
+
+    passwall: fix some issue
+
+[33mcommit 1eaeec0432d531631974a8da3922457f671bdf82[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Sep 1 16:50:56 2020 +0800
+
+    passwall: enhance DoH availability
+
+[33mcommit 8d4dbac9becb6981ce78128d03be9bb2ef035663[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Aug 27 17:25:42 2020 +0800
+
+    update 1.7.5.7
+
+[33mcommit bc84bfd449c38ac8ee2736fec4dd28b8fa4d873f[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Aug 27 17:20:30 2020 +0800
+
+    passwall: fix chinadns-ng and use default china dns
+
+[33mcommit 2510325e334c2e1b6931a66a33b6daa4fe5ed1fa[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Aug 24 20:41:37 2020 +0800
+
+    update openclash v0.39.8--beta
+
+[33mcommit fd4a85d23c9fba8bc8818cea60a197ca9ffc120d[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Aug 23 16:48:35 2020 +0800
+
+    smart update 8.2020.22
+
+[33mcommit f9a55883ec867ffe84db724f71f48d1319af5a6d[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Aug 23 16:38:11 2020 +0800
+
+    passwall: fix filter_node ip6tables
+
+[33mcommit 8cde88f1f2dfb9e65b7080378df0db047cdcf0b0[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Aug 21 15:36:31 2020 +0800
+
+    update smartdns
+
+[33mcommit a67871efc96b79ef65b554509fba94288e6d9edc[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Aug 20 17:31:00 2020 +0800
+
+    passwall: optimize
+
+[33mcommit dd230c8780135cee89730ddc6b41a8bee44667e5[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Aug 19 21:46:55 2020 +0800
+
+    passwall: Update proxy_host
+
+[33mcommit 5ac5544515874260c74dd87cf6b3139a2643def0[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Aug 18 16:07:15 2020 +0800
+
+    Create README.md
+
+[33mcommit 82846a5dcdb8b47781359b1a1ba74685d4e15e56[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Aug 17 17:03:23 2020 +0800
+
+    passwall: add some dns host&ip
+
+[33mcommit 88263a4e511f2e2a77d7450c6b272d470b05640b[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Aug 13 14:22:50 2020 +0800
+
+    passwall: fix dns bug
+
+[33mcommit 62441f6a0472d932453bd6772c6d20e0efb798fb[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Aug 12 23:52:56 2020 +0800
+
+    passwall: fix kcptun cannot run problem
+
+[33mcommit bb457cb4df40065f75eb782d81b9bae2e64f24df[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Aug 12 13:33:43 2020 +0800
+
+    passwall: trojan-go don't use tproxy for the time being
+
+[33mcommit 8178a8a888b06940099f2fff803f937d3274a473[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Aug 12 00:50:49 2020 +0800
+
+    fix redsocks2
+
+[33mcommit 6bbb8c7800d42073a310cd8a14e1c202f6ddb551[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Aug 12 00:37:32 2020 +0800
+
+    update openclash v0.39.7-beta
+
+[33mcommit d9c004105292cbd245c16926faee9b7004cfbe0b[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Aug 12 00:19:43 2020 +0800
+
+    update ssr plus 180.5
+
+[33mcommit 48199e65bce2bfdc45d2fc41cd8324519f15b8e7[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Aug 11 23:52:11 2020 +0800
+
+    update passwall
+
+[33mcommit 7347c0377773276689ccdba84216638e1c956894[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Aug 11 17:31:37 2020 +0800
+
+    update diffconfig
+
+[33mcommit 23bb1ff674498457a913cc7c71271f0e77f95ede[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Aug 11 16:32:07 2020 +0800
+
+    update diffconfig
+
+[33mcommit 89e15995a748f51d791f8595b9af2069dd208660[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Aug 11 15:21:14 2020 +0800
+
+    passwall: no leaking to local DNS on chinadns-ng enabled
+
+[33mcommit 49498ba201bcaf6b743fb3cb183a3daba19cda61[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Aug 10 17:38:40 2020 +0800
+
+    修复edge主题主机名错误
+
+[33mcommit d7ba262933bc85cf3f7df0ff2c95fe00f09a1b58[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Aug 10 14:25:59 2020 +0800
+
+    passwall: Unify some similar parameter names
+
+[33mcommit 9880302b138b5f59a140931ddf6d1a67d52b2e65[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Aug 9 14:12:21 2020 +0800
+
+    passwall: fix update
+
+[33mcommit 3ccf193ca3d40b136f9743c31d139d884b071f61[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Aug 8 13:40:31 2020 +0800
+
+    passwall: Update
+
+[33mcommit 0bf8e383ad29bd6d2e91cfe0992308c60a981a8e[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Aug 7 13:28:18 2020 +0800
+
+    passwall: reduce duplication of code
+
+[33mcommit 2ee53afaafdbcf9996ac87316777023f913c9631[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Aug 6 19:18:56 2020 +0800
+
+    update ssr-plus 180.3
+
+[33mcommit 4b7b6866c04d02b342f94179fe022fedb018d7f8[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Aug 6 13:11:54 2020 +0800
+
+    update JD签到
+
+[33mcommit a14dec8fe5b9b3badf03c03e3e525492f425e10d[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Aug 6 13:03:30 2020 +0800
+
+    update JD签到
+
+[33mcommit 82c9f93ddd04d50a2df0f104a6d4c078e062b570[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Aug 6 12:50:39 2020 +0800
+
+    update passwall
+
+[33mcommit d6ce0e493a4c98c0d09d6b520830745cb46ee307[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Aug 4 01:32:09 2020 +0800
+
+    add luci-theme-edge
+
+[33mcommit b92e35e47dfb3be46cc82f8f1a1757f9b4cc2930[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Aug 4 01:27:22 2020 +0800
+
+    add luci-theme-edge
+
+[33mcommit 609c595e134f0d3018c3cd10c7d3ff66c831251b[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Aug 4 01:22:35 2020 +0800
+
+    add luci-theme-edge
+
+[33mcommit 4f52bc15a86275e161eb46939631d5ca982ba096[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Aug 4 01:19:15 2020 +0800
+
+    add luci-theme-edge
+
+[33mcommit 7c48e375ded2ee64193cb066a1615161994d4aff[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Aug 4 01:16:40 2020 +0800
+
+    add luci-theme-edge
+
+[33mcommit f51f79261b7e5a2d35781375daa44a4ece6af3cc[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Aug 4 01:15:46 2020 +0800
+
+    add luci-theme-edge
+
+[33mcommit 7aba7b1a564058c87934fa2d4471acee8f25c3da[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Aug 4 01:14:09 2020 +0800
+
+    luci-theme-edge
+
+[33mcommit ae73b8cdbc1968f80c8858a47f7025798015f3ef[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Aug 4 01:12:51 2020 +0800
+
+    luci-theme-edge
+
+[33mcommit 93af6cb1d2ce9c454da44f997f0f3b4b58e2c247[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Aug 3 21:57:25 2020 +0800
+
+    fix
+
+[33mcommit 79a9d3ed506b736ea9ae422f72c8c1a09341640b[m
+Author: 有種 <39034242+kenzok8@users.noreply.github.com>
+Date:   Mon Aug 3 16:53:58 2020 +0800
+
+    Delete LICENSE
+
+[33mcommit d011e62662edb6a611219cd42b30d95e28e914c1[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Aug 3 16:53:22 2020 +0800
+
+    passwall: update
+
+[33mcommit d7c430c89396a37759df82eeee4392cfabeb4290[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Aug 3 15:03:11 2020 +0800
+
+    trojan-plus: trojan rename trojan-plus
+
+[33mcommit c63e832cdfdca451655162721af813ce422c1085[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Aug 1 15:57:16 2020 +0800
+
+    fix 3. Applications
+
+[33mcommit 8a1d96c720f0c4e65bc46b3f3eee1b0b5ca8a5a6[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Aug 1 15:09:40 2020 +0800
+
+    passwall: try fix subscribe issue
+
+[33mcommit 41dbb9c19a0a6f7f3836a8ac27ca6e734ec42794[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Jul 29 23:45:52 2020 +0800
+
+    update clash 1.7.5.5
+
+[33mcommit 3ff73e435162ffc9d28b730fdf0f5a74a6457147[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Jul 29 20:15:53 2020 +0800
+
+    update openclash 0.39.6
+
+[33mcommit 74181e84ea4c48f38fce9296eed90ebd390dd8c3[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Jul 29 17:22:47 2020 +0800
+
+    passwall: server: support ipv6 and fix trojan-go run
+
+[33mcommit be7aa647bff3839d2fd920bfe9da1f2ce2b757c5[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Jul 29 17:19:56 2020 +0800
+
+    update diffconfig
+
+[33mcommit 7868c2a1a6d5956065458995d73c13e32015ca7d[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Jul 29 15:11:23 2020 +0800
+
+    passwall: fix haproxy bug
+
+[33mcommit 3a2402c7922ea9df33e647fa8dd84eb48682ee68[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Jul 28 23:35:39 2020 +0800
+
+    passwall: server: fix udp protocol can't run
+
+[33mcommit 0b76faba3beea3df230d0e16e4d26ed732b52882[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 27 16:27:18 2020 +0800
+
+    passwall: update ui and support the mKCP seed option
+
+[33mcommit 93ab9c15de6f5c82da8f464e9bd79003d5781e55[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Jul 26 19:19:55 2020 +0800
+
+    update openclash 0.39.5
+
+[33mcommit 1432385a088e4078c92b6224e01b109fce4516a5[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Jul 26 14:55:14 2020 +0800
+
+    update adguardhome
+
+[33mcommit e4139cbfa57a0ce4e0d5ac54191ff6a36976877f[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Jul 25 14:59:02 2020 +0800
+
+    update passwall 3.9.22
+
+[33mcommit f4e6e8ecdc783a14d17f28e8e8ee019774f5f48c[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Jul 24 14:08:27 2020 +0800
+
+    update passwall 3.9.21
+
+[33mcommit 04c0fca1a357b0c74fa1d875f9a74a58a9732ed2[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Jul 24 14:03:50 2020 +0800
+
+    update passwall 3.9.21
+
+[33mcommit 1352dc61d872cdbc773994e9b815f35a74b0f83b[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Jul 24 13:58:47 2020 +0800
+
+    update ssr-plus 180.2
+
+[33mcommit 66d80ab69a95d74ecfdea4100471110968004378[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Jul 22 16:47:55 2020 +0800
+
+    update passwall
+
+[33mcommit dc04055403e24fd8a96906b1282c3fb16b3711c6[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Jul 21 17:11:45 2020 +0800
+
+    update passwall
+
+[33mcommit 5096685e6821ec52e1383fb7d0399a49145907e9[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Jul 19 22:49:11 2020 +0800
+
+    passwall: server: fix trojan bug
+
+[33mcommit 17a0d6220f4bc2b4bce4aaf079bc5198aac4f990[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Jul 19 21:56:49 2020 +0800
+
+    add JD签到
+
+[33mcommit 150ca540da55cb7e02849957fbba37230288f15d[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Jul 19 15:10:37 2020 +0800
+
+    Add PKG_CONFIG_DEPENDS
+
+[33mcommit 5263fc442f9acf197dd8d107ec5955061fdd51cf[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Jul 18 19:58:48 2020 +0800
+
+    add 京东签到
+
+[33mcommit f4223cf2804a3cdee21169db06ded37e124f4845[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Jul 18 19:52:43 2020 +0800
+
+    add 京东签到
+
+[33mcommit b7e24eee040cb1a4e152ee214eaed9213cbf425e[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Jul 18 19:42:23 2020 +0800
+
+    update passwall 3.9.19
+
+[33mcommit 8a3cf577f14e7c8a624998a0b715bd017683c95b[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Jul 18 19:39:38 2020 +0800
+
+    fix ssr-plus
+
+[33mcommit 27ac54696ba12b45a4a02a30650c8a0297813b3d[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Jul 18 01:13:49 2020 +0800
+
+    passwall: server: add v2ray ss/socks+websocket+tls
+
+[33mcommit 26877259bfbde05e4bb3c3d01fc31ed4e69730e3[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Jul 17 17:26:41 2020 +0800
+
+    update openclash v0.39.4-beta
+
+[33mcommit bdff6b6c81ad7b85f1e62a02c70244d38d672b03[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Jul 17 14:02:51 2020 +0800
+
+    passwall: fix ssr subscribe protocol error
+
+[33mcommit 906c16b45a80e1447b471d7dfeadb0cc89cd5046[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Jul 17 13:57:38 2020 +0800
+
+    add 京东qiandao
+
+[33mcommit 82de5796633edc420a9e0c96da18fb0c6c04c90b[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Jul 17 13:56:08 2020 +0800
+
+    add 京东qiandao
+
+[33mcommit d43095ffe9b16aca17d94e7f9d1d08739ddc34f7[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Jul 16 17:49:16 2020 +0800
+
+    fix passwall 3.9.16
+
+[33mcommit a34d94ff71ad88f17318e13c395c5748976aa7a6[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Jul 16 14:18:38 2020 +0800
+
+    update passwall 3.9.16
+
+[33mcommit 7996f64558818893dd0fd140e63f334bf58ae6c1[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Jul 15 22:00:46 2020 +0800
+
+    passwall: optimize and fix bug
+
+[33mcommit f14e08a232c1dcecc005868c4ba4f0d9e59117e6[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Jul 15 21:04:12 2020 +0800
+
+    update passwall 3.9.15
+
+[33mcommit 24db6a17593dcd83cc489f8f10d927d159fdcf4d[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Jul 14 22:05:53 2020 +0800
+
+    fix passwall 3.9.13
+
+[33mcommit a055bcf7554cd9657eef1cc7e5f439851e731a0d[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Jul 14 22:03:52 2020 +0800
+
+    update ssr-plus 180.1
+
+[33mcommit a91cfa1e482562295e48fd989e67051600bf44d2[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 13 23:03:27 2020 +0800
+
+    无欲无求
+
+[33mcommit f1d1c33928eae8993adb1a2c6b8b9672a3062473[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 13 22:59:38 2020 +0800
+
+    add 京东签到
+
+[33mcommit 3c94a9c4d98c38bd17d8fc661fc3c2b70aeae145[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 13 22:57:02 2020 +0800
+
+    add 京东签到
+
+[33mcommit 724e78033afba8288ba957aadbd8fe68e73ca9c8[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 13 22:52:32 2020 +0800
+
+    add 京东签到
+
+[33mcommit ee4bd8acb8d82f3f4147a8d4c3330bbbc664c6be[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 13 22:42:33 2020 +0800
+
+    add 京东签到
+
+[33mcommit 1d10c0c653d1d5f78ceceb829ce27526e0e23ce2[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 13 22:40:41 2020 +0800
+
+    add 京东签到
+
+[33mcommit b03c5403d9f7f3b0cc8ca4e3384fdd54509761d8[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 13 22:38:03 2020 +0800
+
+    add 京东签到
+
+[33mcommit 08f6be25d947f44304b9d9af009e44c47c3061da[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 13 22:12:44 2020 +0800
+
+    update passwall 3.9.13
+
+[33mcommit 554e9816033c1023511f4d3dc0b7a2b17cb193a2[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 13 17:06:23 2020 +0800
+
+    fix ssr-plus
+
+[33mcommit 6930db096fb683e48476a983dbc89131641409a6[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Jul 12 20:58:09 2020 +0800
+
+    update passwall
+
+[33mcommit 880fd4b116a24783714369f42b099f75c098ef4f[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Jul 11 08:12:32 2020 +0800
+
+    fix passwall
+
+[33mcommit 9a1335e43f49a1469699935e18d149ad957a5e5a[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Jul 10 19:03:46 2020 +0800
+
+    update passwall
+
+[33mcommit 852ea32c7abcb8c802637ca13af7a86cdf718257[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Jul 10 00:57:57 2020 +0800
+
+    update diffconfig
+
+[33mcommit 49e32931c51899b84a90eb072e5bfb5a966b318b[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Jul 9 23:44:40 2020 +0800
+
+    update clash v1.7.5.4
+
+[33mcommit 4f55bf17f8190a2854971683bc026989f1da40af[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Jul 9 23:31:57 2020 +0800
+
+    update passwall
+
+[33mcommit ff5ff934392fa6127903b70fb73a0dc88218e501[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Jul 9 23:29:34 2020 +0800
+
+    update ssr-plus
+
+[33mcommit 4043519cb0cd2d7f2ce140951d05baa3ecd888da[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Jul 9 03:19:17 2020 +0800
+
+    update config
+
+[33mcommit 4abb0877607f73431269c9d164d5f9f6425913d8[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Jul 9 02:18:38 2020 +0800
+
+    update passwall 3.9.10
+
+[33mcommit 548ea628a524eaa84fd30332cdc8116a82e623a2[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Jul 7 21:10:19 2020 +0800
+
+    update
+
+[33mcommit 67b190ae46efa333ca0332971edffc8f8bf62494[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 6 21:58:50 2020 +0800
+
+    update
+
+[33mcommit 2a8f4264a291720e37898664aa7ea3b8dd1e2893[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 6 21:53:50 2020 +0800
+
+    update
+
+[33mcommit a4995d6a9c84c66e8dd07eb57bda16665a154dd5[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 6 21:48:50 2020 +0800
+
+    update
+
+[33mcommit a5edfb10886fa4de76d8530726d4c21e53f3f310[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 6 21:35:17 2020 +0800
+
+    update
+
+[33mcommit 497e88135be63ca8f3bfd3e5f670259d77425525[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 6 20:37:28 2020 +0800
+
+    update 3.9.7
+
+[33mcommit 3bbf6099e9963c07f57a14db74bf48ec46daa8a4[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 6 20:03:51 2020 +0800
+
+    更新
+
+[33mcommit 8118fbb7dc9185320392bd605055563b1e96ead0[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 6 02:02:50 2020 +0800
+
+    精简代码
+
+[33mcommit 8f081a419b53c00be412e7e7f1c08da14fbf6f44[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 6 01:45:19 2020 +0800
+
+    luci 透明主题
+
+[33mcommit bfb82d6a8ec91ffa9eb2ee635a8c1bfb53db0050[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 6 01:43:05 2020 +0800
+
+    luci 透明主题
+
+[33mcommit 9622b014444182267a316e45c452f14dd0360149[m
+Author: 有種 <39034242+kenzok8@users.noreply.github.com>
+Date:   Mon Jul 6 01:35:06 2020 +0800
+
+    Update README.md
+
+[33mcommit ac0fa286579d254fbb899e98e0ef6398933e9bf5[m
+Author: 有種 <39034242+kenzok8@users.noreply.github.com>
+Date:   Mon Jul 6 01:33:07 2020 +0800
+
+    Add files via upload
+
+[33mcommit f15dccbf0389f9ede99287702e16e72818562a0f[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 6 01:31:28 2020 +0800
+
+    luci 透明主题
+
+[33mcommit b962a1f8d9a611520a878fe0e6a2e93d2fb800b3[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 6 01:29:18 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit dbac2d09fc1b917e3dcdaa78d1e2d62b28b1cb9a[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jul 6 01:22:33 2020 +0800
+
+    luci 透明主题
+
+[33mcommit 35d30e347722cc74ff3794c1ae0c4751d5e79a5a[m
+Author: 有種 <39034242+kenzok8@users.noreply.github.com>
+Date:   Sun Jul 5 22:10:38 2020 +0800
+
+    Update README.md
+
+[33mcommit 770d20d0314b6e6fff7dc3cfcdcfee26e90fd82f[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Jul 5 05:33:03 2020 +0000
+
+    fix clash luci目录
+
+[33mcommit c2dedc2dcca558ee6bfebd09d77a1cb9ad31038a[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Jul 5 05:03:19 2020 +0000
+
+    update 1.8.13
+
+[33mcommit cb9011df2f48b7a35c79f7b4f54fdc6d0841109d[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Jul 5 04:49:00 2020 +0000
+
+    update 3.9.4
+
+[33mcommit b7b44ba3bcad7983e3a8677e4c6f9ee1f96ec15b[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Jul 3 08:18:35 2020 +0000
+
+    fix 1.7.5.3
+
+[33mcommit 0592363cb8cb7eaea1f27143e850f871b3464da3[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Jul 2 15:49:03 2020 +0000
+
+    775
+
+[33mcommit a13921835e6e9adeaa1a48a4ba991de0e995e1ae[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Jul 2 16:07:59 2020 +0800
+
+    fix ssrplus
+
+[33mcommit 41ddd984b2dcc41d482d079962dab414873c7274[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Jul 1 23:03:25 2020 +0800
+
+    update v1.7.5.3
+
+[33mcommit fd606eeee337d7f189d6266ffddf71fac8e05673[m
+Author: 有種 <39034242+kenzok8@users.noreply.github.com>
+Date:   Wed Jul 1 00:10:31 2020 +0800
+
+    Update zzz-default-settings
+
+[33mcommit 5d74737257eb4f58e5c691c69ba886a2103158ac[m
+Author: 有種 <39034242+kenzok8@users.noreply.github.com>
+Date:   Wed Jul 1 00:10:01 2020 +0800
+
+    Update default-settings
+
+[33mcommit 3bc1dd0e562a34418ca520a12e565329e57be0b8[m
+Author: 有種 <39034242+kenzok8@users.noreply.github.com>
+Date:   Wed Jul 1 00:09:23 2020 +0800
+
+    Update banner
+
+[33mcommit 1b847bb6a3342a53856b08c91c775564f65ccd22[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Jun 30 18:01:16 2020 +0800
+
+    update 179.3
+
+[33mcommit 93b4f1faa7e4f0368a711bfb2754a566af4b5d5c[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Jun 30 17:59:50 2020 +0800
+
+    update 0.67.4
+
+[33mcommit 4a20bd7b6e9a5514fd699882629761ca9d9ebfb1[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Jun 28 13:58:00 2020 +0800
+
+    fix LuCI目录显示
+
+[33mcommit b0ec8fce9de05f8dfd10d33675b697d8fc1561f2[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Jun 28 13:52:36 2020 +0800
+
+    update 1.7.3.3
+
+[33mcommit 15a330c512048f5e884554f9b6af1e7507312f1e[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Jun 28 13:33:57 2020 +0800
+
+    update 1.7.3.3
+
+[33mcommit 9259e475754bdaff0f6d0fdb424f36d471e8bb63[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Jun 26 22:19:17 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit ca76c26973dd4f05eacc4ddcf60a72b1c877f910[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Jun 26 20:42:53 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit ae9cfb0d9c77113af7be0891d5d6e87638388823[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Jun 21 17:05:02 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit c12516a41526a8289065c62e1a57c0812645d243[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Jun 21 16:09:27 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 58e9fac867a33b820d7314e0d2b912715b1870fe[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Jun 18 18:00:29 2020 +0800
+
+    update V0.39.2
+
+[33mcommit 5ba0922f9a1709ff11e692bdf73b030dc885ac1a[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Jun 17 20:57:40 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 332a2ccde246d38e5a988f0b3922fede4f7e4653[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Jun 17 01:57:39 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 9e7b2a65fcb5547a80f18f4460f7e3ede4529504[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Jun 16 19:29:18 2020 +0800
+
+    update 0.39.1
+
+[33mcommit da5e76b60a2874f1645625dcb09428d296356eb7[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Jun 16 19:26:54 2020 +0800
+
+    update 1.7.3.2
+
+[33mcommit 4bd3df8c3e0d1fc85be12c51e4450400793af6e8[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jun 15 14:43:32 2020 +0800
+
+    update v1.7.3.1
+
+[33mcommit 89b596c45f6a7f65c2ff5bb132a9b3e456110e18[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jun 15 14:34:53 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit b9e0c1de1629907cda09c1dd805eb7b9f6eb9575[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jun 15 14:33:21 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit bfe139e314b53b15c31a72d73e2c48da63e024e8[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jun 15 14:32:33 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit f2e99535cdd527552ae075e4e5db0e987bcb9dfb[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jun 15 14:30:20 2020 +0800
+
+    update v1.7.3.1
+
+[33mcommit 2a48389bc3e6e39b5a1b678287bbd41d9736abeb[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jun 15 14:28:39 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit 4b6b7ae909aa6c53beba423ed49cc22f74cb3dab[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Mon Jun 15 14:15:23 2020 +0800
+
+    Update README.md
+
+[33mcommit 888ff6c9f88f9434613b880eb6fc109aa3ba3daa[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jun 15 14:01:25 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit b87a44e705e693ccb2da69c5b155e693dc1db401[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jun 15 01:59:45 2020 +0800
+
+    VERSION:=2.11.1
+
+[33mcommit 8011cd87514eac9feb7498cece8b6259e6a144f9[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jun 15 01:54:08 2020 +0800
+
+    v0.38.9-beta
+
+[33mcommit ea9667e1aa364c75c6a37c5f7e25f37b31ef664c[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jun 15 01:53:25 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 8bc69d884dc4d5498b65fc7017131238547f434c[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jun 15 01:51:09 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 4f5b607278497055a6750a9a0fd38d7b05c4d991[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jun 15 01:41:00 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 824d15cab4a106d020e18cbbb13808fabb1742c0[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jun 15 01:40:05 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 83ddb47d6b806541ffb6ee47572f024408776d58[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jun 15 01:37:39 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit ebcad515ccb59936c501f45d84f9772207900553[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Sat Jun 13 16:18:51 2020 +0800
+
+    Add files via upload
+
+[33mcommit e65b178cb0ce47f729f3e3f25f0f9388151b27d1[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Sat Jun 13 16:18:27 2020 +0800
+
+    Delete Makefile
+
+[33mcommit 1d70b908ab3334d6580c8a798358c58109125f65[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Jun 13 16:14:51 2020 +0800
+
+    Update
+
+[33mcommit d79ea654dab129a4aa9daade8371e530f82ac241[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Sat Jun 13 02:52:07 2020 +0800
+
+    Update README.md
+
+[33mcommit 96f29881d5f051cad034c1a7cc905984da79c3ae[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Jun 13 02:32:13 2020 +0800
+
+    adguardhome 18-12
+
+[33mcommit 45145db0763a29ecfe07217f331c6322c7e364bc[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Jun 12 02:48:08 2020 +0800
+
+    upade 1.7.2
+
+[33mcommit 8aa340ee8911a640a613ea730441feb40fef6b5b[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Jun 12 02:08:57 2020 +0800
+
+    0.38.8
+
+[33mcommit 8d5cad9b7dc7fb158ce84207d03ef7a9b7ff0ac8[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Jun 12 01:18:47 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit bbd1efa5eea9db427b26dba2fd7bc721513eaae0[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Thu Jun 11 02:58:58 2020 +0800
+
+    Update small_flash.yaml
+
+[33mcommit fbc9276617056498f154f3d29333a31a9684fe5d[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Thu Jun 11 02:58:38 2020 +0800
+
+    Update big_space.yaml
+
+[33mcommit ee6d293ce7c3e07177202a0d1292006414152298[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Thu Jun 11 02:58:15 2020 +0800
+
+    Add files via upload
+
+[33mcommit d38fd3e7fc50a97be65385f82fc5f28fa2e6f27b[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Thu Jun 11 02:58:03 2020 +0800
+
+    Delete Makefile
+
+[33mcommit 2de11c38f3d3fb91739d5104b9799005f0a0989e[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Jun 10 17:07:56 2020 +0800
+
+    178-6
+
+[33mcommit 189602cad4ffc3b1ed3d34e2f41069c0c032c174[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue Jun 9 21:57:27 2020 +0800
+
+    Add files via upload
+
+[33mcommit 44cf1a2aad4f6f1ef84d10879dbcb9382040c7a8[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue Jun 9 21:56:21 2020 +0800
+
+    Delete Makefile
+
+[33mcommit 0470c4c9e54f771d219a87ae9b9c030c7ddfe603[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Jun 9 21:52:17 2020 +0800
+
+    v0.102.0
+
+[33mcommit 131b822eca20c001468d657cdd49c34dc54bc6aa[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Jun 9 04:17:02 2020 +0800
+
+    0.38.7
+
+[33mcommit 6df150456dbb0568935e87441fd68e81efe1cba0[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Jun 9 01:31:10 2020 +0800
+
+    ssr更新178-6
+
+[33mcommit 213220faf86631afef33195879c25be98a11514d[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue Jun 9 01:22:05 2020 +0800
+
+    Update update_core.sh
+
+[33mcommit 2e0f3d8f18542ba4cc6bce99360d26391472a713[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue Jun 9 01:00:04 2020 +0800
+
+    Update update_core.sh
+
+[33mcommit 1af7636fb611ac3fa28cd58e810537386288fbaf[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue Jun 9 00:54:37 2020 +0800
+
+    Update update_core.sh
+
+[33mcommit e1500003e7d4569f97f09fc7976cad9a11627670[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Jun 9 00:14:51 2020 +0800
+
+    adguardhom修复启动权限
+
+[33mcommit 8438683cfb2f499fa6c2f5c60c4b60c5c352f44c[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Jun 8 20:41:39 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 2b57d3af3b09b32b5aab2a507684cd5b1f77a3aa[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Jun 7 16:54:24 2020 +0800
+
+    by: kenzo
+
+[33mcommit 6051f5a93b02763fbf1b41fadfeb257a6cbb17cb[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Jun 7 01:18:42 2020 +0800
+
+    by: kenzo
+
+[33mcommit 0a1d19905b9558ee6b6b3bcb4112bfdbeeca243f[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Jun 6 21:00:49 2020 +0800
+
+    by: kenzo
+
+[33mcommit bdfa36d7c03319bf48ac4728ae39a8e110a52973[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Jun 6 02:27:31 2020 +0800
+
+    Add missing icon
+
+[33mcommit f621e1e4738d8c04e84e9884ee64d0a4f805f610[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Jun 4 13:51:26 2020 +0800
+
+    clash 1.7.1
+
+[33mcommit 6e7900c413c41014bc75549a445f761eb4c8c2bf[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Jun 2 01:34:22 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 88423000edf864b27dfaf38368a01c8792b9702d[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Sat May 30 16:24:13 2020 +0800
+
+    Update README.md
+
+[33mcommit b457a627b9c29620dc1e8b90bb93fc9a845c54fa[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Sat May 30 16:22:10 2020 +0800
+
+    Update README.md
+
+[33mcommit 0272d2f34704170bc7cb1ea8698b8a825c64db67[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Sat May 30 16:14:03 2020 +0800
+
+    Update banner
+
+[33mcommit 3248597d405e1dbece7e5aeaf1f269098e20567a[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Sat May 30 16:13:46 2020 +0800
+
+    Update banner
+
+[33mcommit 9f8019b1a08bec26facd6ff69f6780ce79c6ccad[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Sat May 30 16:13:20 2020 +0800
+
+    Update zzz-default-settings
+
+[33mcommit add1e2a9123cd4df3f3f86364c7f4df1ba8c5393[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Sat May 30 16:12:55 2020 +0800
+
+    Update zzz-default-settings
+
+[33mcommit dcf83e756b439fdc2955dd07cc77ea6d702f1a0e[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Sat May 30 16:12:17 2020 +0800
+
+    Update default-settings
+
+[33mcommit 5494b1df3923bd9a445fa3cc38522375eade1117[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri May 29 18:41:30 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit f1a4fdbce5ce16701f7f0e690085d40d9d69d616[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri May 29 14:41:37 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit fec168524b079bb5f318a88eb1e3ad20a398c9a2[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu May 28 15:14:17 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 1bf615213802de3ff204dc64d3d0b47890a5f31b[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed May 27 00:47:55 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit ff356f2551354e86886e9cf30e0ec8f5aaf567dd[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Wed May 27 00:28:29 2020 +0800
+
+    Add files via upload
+
+[33mcommit c6933f4db7a9a26b72e7dc61968cc1b2ffda30ba[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue May 26 16:27:43 2020 +0800
+
+    Update default-settings
+
+[33mcommit 0e44a07c24eade29cd945f60bc9c1389b52cc776[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue May 26 16:22:45 2020 +0800
+
+    Update README.md
+
+[33mcommit f5fdbd62d0d813fae96e61d30b0442474fcdecf6[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue May 26 16:22:20 2020 +0800
+
+    Update README.md
+
+[33mcommit 180fd061d6ecd55dd387672aeaeec8e8aafd11ca[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue May 26 16:19:55 2020 +0800
+
+    Add files via upload
+
+[33mcommit 668b917623ad6cce3ee066e4844793379c54d9d8[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue May 26 16:19:02 2020 +0800
+
+    Add files via upload
+
+[33mcommit 5d9bb7fe7e07ae322a5754164bb9080324942e1d[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue May 26 16:18:16 2020 +0800
+
+    Add files via upload
+
+[33mcommit b975ac6b6d4b1ffe642a5c8945c460ae61f7cbae[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue May 26 16:17:41 2020 +0800
+
+    Delete diffconfig
+
+[33mcommit b407e9ae4e8671827fb682b8e35072c69881a000[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue May 26 15:56:32 2020 +0800
+
+    Add files via upload
+
+[33mcommit 75864108c774d1e65df951e34852d83f0c249ec8[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue May 26 14:30:47 2020 +0800
+
+    Add files via upload
+
+[33mcommit 9827c43889859666757e4ba1730b698f90acf034[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue May 26 14:28:45 2020 +0800
+
+    Update default-settings
+
+[33mcommit 6e44c8928742d662d71696b2f608bc16f0ee28e0[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon May 25 14:15:32 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 7ce949d89ef32c4723cdabf5b742c3741a752ff3[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Sun May 24 20:46:33 2020 +0800
+
+    Add files via upload
+
+[33mcommit a7a619f2b2559527636b52a6f424641e87d5d74c[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Sun May 24 20:43:47 2020 +0800
+
+    Update README.md
+
+[33mcommit 30fbed7874e8dae715e1f8a58888db55d35770f3[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun May 24 02:13:24 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 28749a76312c1fcb6180c462858183294628186c[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat May 23 21:47:46 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 6dc4ff6261c59573d61af434a2de75f3824801fb[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat May 23 15:28:10 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 3cc5e0ca2afdbb9307c9974b08f4f15216d359d8[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat May 23 15:16:54 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 6a7038062574d4b5cae72b77c05d320eb28b4da7[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Mon May 11 21:23:17 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 4b458fc65b338e623ecfe4200ec4c391ac4d93e1[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat May 9 17:35:33 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 2ec52fe21603f01837ef92c6bb14317460b8acba[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri May 8 17:53:03 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 7c1e0913a7622cc73201ad602eb39e5e7b37fd46[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon May 4 17:02:22 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 8014185d5ec6359a3dd02e6ffa926a7980d5d950[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat May 2 16:37:27 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit af25e7788ee1a7ae349251d2e16c2708cf532866[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat May 2 15:40:01 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 93f24bb1ae959009978782c4a047c34c78f78c6f[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Fri May 1 19:58:51 2020 +0800
+
+    openclash更新
+
+[33mcommit fd3901aed8a6780a5d7be428216ed5a8b43ac284[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Apr 28 16:48:49 2020 +0800
+
+    openclash 更新
+
+[33mcommit 7dfc5fefa1c8bbd1f1d8ac40d45196998a21193e[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Apr 27 14:00:48 2020 +0800
+
+    ssr plus更新
+
+[33mcommit 1679f9884658aaf0552da644f80c91a2c9d6daf1[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Apr 23 17:51:40 2020 +0800
+
+    新增gost+openclash更新
+
+[33mcommit c591f42014ecbbd5474fc3ba9fe6b1fe9649b45b[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Apr 21 20:15:34 2020 +0800
+
+    添加smartdns更新
+
+[33mcommit 06055f03d96b0fda9dfa000df5c44e88ad380dda[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Sun Apr 19 22:47:19 2020 +0800
+
+    更新
+
+[33mcommit 6479112e36cb95a0666e1c2cf394174559b020a0[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Apr 18 21:37:27 2020 +0800
+
+    更新
+
+[33mcommit cb653835c80d9b9de2ccc9718934f32150433809[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Apr 18 21:27:35 2020 +0800
+
+    重要更新
+
+[33mcommit a8ae4e9683f7f7348d39c3490a822c899d8f31c0[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Apr 18 21:13:19 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit 6286dba844deee74ad282b2518b9559ae7d706c7[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Apr 18 20:50:22 2020 +0800
+
+    重要更新
+
+[33mcommit ba9e520e92111ff28d79d95a15f2bfaffc37847d[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Apr 17 16:56:03 2020 +0800
+
+    新增
+
+[33mcommit 6472320ad05e881849b939c05d294d53cf72f087[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Apr 17 16:10:11 2020 +0800
+
+    更新
+
+[33mcommit a5d8f8a4dbbf1ff04de6ca0f9aeb4f66fecb5d7b[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Wed Apr 15 23:03:12 2020 +0800
+
+    更新
+
+[33mcommit 1170ee2dda31c922502b05e903a066fdc6f2d7b4[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Apr 15 15:55:56 2020 +0800
+
+    更新
+
+[33mcommit d3f7bc1cf973000f54342ba68f4338e62564e194[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Apr 15 15:15:38 2020 +0800
+
+    更新
+
+[33mcommit 1af4e4ccecb51e05e1f0c6d46393e9550d7eafac[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Apr 13 15:14:50 2020 +0800
+
+    更新
+
+[33mcommit 5178e44be1ba730c7f00ef815cbd552b3fda1b7b[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Sat Apr 11 00:51:00 2020 +0800
+
+    更新
+
+[33mcommit 2f635feec142260fbbbf19bf6302e897491363e6[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Sat Apr 11 00:38:16 2020 +0800
+
+    更新
+
+[33mcommit 49b23965ff35ae98bbd319af8180bc003163b6cf[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Tue Apr 7 23:43:47 2020 +0800
+
+    更新
+    
+    Signed-off-by: kenzo <kenzok8@gmail.com>
+
+[33mcommit 249e581623824391098c6b6220eeda2a963854e1[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Apr 6 12:47:47 2020 +0800
+
+    更新
+
+[33mcommit bd2fd019589ec0b836ed986a79746b805ae1c706[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Sun Apr 5 23:06:14 2020 +0800
+
+    Signed-off-by: kenzo <kenzok8@gmail.com>
+
+[33mcommit 13c9985bfb23dee8b50eb25e5c4f51ac82828532[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Sat Apr 4 00:32:37 2020 +0800
+
+    同步更新
+
+[33mcommit 437efc5da08fb65e9c787ed4bb06a26cc25a7ee5[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Sat Apr 4 00:16:00 2020 +0800
+
+    Signed-off-by: kenzo <kenzok8@gmail.com>
+
+[33mcommit 6058a57f41d0967b742644dd8b83ae2744564af9[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Tue Mar 31 00:48:55 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit e005af12a27a541b3c265013a948c2ea65469012[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Mar 30 13:44:14 2020 +0800
+
+    Signed-off-by: kenzo
+
+[33mcommit 14d4eb08335d40a97f92eab234f0120b56bf6ec7[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Sun Mar 29 19:52:22 2020 +0800
+
+    Update header.htm
+
+[33mcommit 2cfe62ef2d7ac7f663bbb2ee517fcbc3861a6fe1[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Mar 29 19:02:12 2020 +0800
+
+    Signed-off-by: 有種
+
+[33mcommit 3028209cbe74506f4a0a08f3baa9bf05f76525be[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Mar 29 14:43:54 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit d6cb4facc7f7bfadc4806b268f326002e6317421[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Mar 28 23:14:18 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit cbc4932abd09c5da0244be719c5cac5c65db6d43[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Mar 28 22:43:03 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit b5db87ed036cb351790046041ddf28b71f32ff50[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Mar 27 20:06:24 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit 747c228a978b00b211d12dcd26cc1f4a60a2792c[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Mar 27 19:24:56 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit 1e1bd10537aa05f4705d0ac46be49dfd2f1766bb[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Fri Mar 27 00:33:59 2020 +0800
+
+    Signed-off-by: kenzo <kenzok8@gmail.com>
+
+[33mcommit b13bd27ea0a1f9ffb206f956e62863e031902655[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Mar 26 20:23:54 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit b52ac2ff5acb1cee4215dd056ab48d15a2bcf1fd[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Mar 26 20:16:41 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit cf58ff49be224a9a7ada5219a8ecdf4c7f1fef46[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Thu Mar 26 03:42:20 2020 +0800
+
+    Add files via upload
+
+[33mcommit 32880aa14190a3ea1b8ca7a6eda89e140f147251[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Thu Mar 26 03:40:21 2020 +0800
+
+    Signed-off-by: kenzo <kenzok8@gmail.com>
+
+[33mcommit 49f140c0174047586e498804ac0f4b21b232153f[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Thu Mar 26 03:30:06 2020 +0800
+
+    Signed-off-by: kenzo <kenzok8@gmail.com>
+
+[33mcommit 856224e34322c955f5d1572d5b4478e3b8588430[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Thu Mar 26 03:15:32 2020 +0800
+
+    Signed-off-by: kenzo <kenzok8@gmail.com>
+
+[33mcommit 64fc3afc158db28cd9ef6a32e357cc3f91d5de82[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Thu Mar 26 03:14:28 2020 +0800
+
+    Signed-off-by: kenzo <kenzok8@gmail.com>
+
+[33mcommit 8611dbd2b9e058a37fd15e84ad094c01e022728d[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Thu Mar 26 03:12:20 2020 +0800
+
+    Signed-off-by: kenzo <kenzok8@gmail.com>
+
+[33mcommit 7ffed6d13a012ae9111a34e139cf1e1447cd6d63[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Thu Mar 26 02:53:29 2020 +0800
+
+    Signed-off-by: kenzo <kenzok8@gmail.com>
+
+[33mcommit 853f1992dc245c6fbfd111b93ea3f74593f84e6e[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Thu Mar 26 02:21:01 2020 +0800
+
+    Signed-off-by: kenzo <kenzok8@gmail.com>
+
+[33mcommit 04c0070b42a8fac2fc14e6eaa08db9f93dee07a7[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Mar 25 21:46:43 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit fa91ca42e3fb68e7bd98bb889e0a1a7b30f7018e[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Mar 25 19:24:10 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit 9750032b20ee686d8f63c630031905501195a1d8[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Wed Mar 25 00:19:55 2020 +0800
+
+    Signed-off-by: kenzo <kenzok8@gmail.com>
+
+[33mcommit b773e53393230fbd837524a11c8a1aed099161f9[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Mar 24 19:27:39 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit d42a8b23694aaa1612becbacae0a0b6713388ac5[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Mar 24 18:35:45 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit 926f6b3a215a8a9a82a4365fc5f596c453c20b5d[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Mar 24 16:24:52 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit e7185d524bb8b899cd9413e0778d8d2218862ab2[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Mar 24 16:18:25 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit 80c5e278e6dc27bd3c53c4fd14201f4d1e4b908b[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Mon Mar 23 01:39:11 2020 +0800
+
+    Signed-off-by: kenzo <kenzok8@gmail.com>
+
+[33mcommit f72cffdb9c239043b415ac5d05ad0bcfc1589bf2[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Mar 21 16:08:34 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit 7cf45e71e6d9a818b61bee3b921d084a7d188be7[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Mar 20 18:05:25 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit 0287b515c154b1dead7685c37ae2be47f1c80895[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Fri Mar 20 17:45:15 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit 92d65c115cf1c9db1f8a5435cafb1d0bda605b44[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Fri Mar 20 00:42:21 2020 +0800
+
+    Signed-off-by: kenzo <kenzok8@gmail.com>
+
+[33mcommit 02bca3dcd565b1c94fb65f9fa6cf33f7407044c8[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Mar 19 22:31:15 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit b4b9d0cb03a0b9b4ec824c7f004f67ea1cdec20d[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Mar 19 18:28:07 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit 9c4fa4e565f2854343ba97d6262bfe2fed66c8a8[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Mar 18 22:37:45 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit 574af354e6f269cc6b60bed9be40789fb94be7ab[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Wed Mar 18 16:29:17 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit 21377dc0751d80bc061b8c2e21db821461f1709d[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Mar 17 20:08:04 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit b74381de218b8f4ed4a87a25d810c7bd9acc2b6f[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Tue Mar 17 14:06:22 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit e192cf88aeccaed3d574fa7872b12a95c1e4f0ba[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Mon Mar 16 23:56:35 2020 +0800
+
+    Signed-off-by: kenzo <kenzok8@gmail.com>
+
+[33mcommit f8adb23bafd996db557fbb67e8573f7aff75b499[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Mon Mar 16 15:33:45 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit 3269ad7d2dffeb21c29e111e5e54289868de4978[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sun Mar 15 16:15:48 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit 989f08719b1ca48b2dbc257ebf2fdaf101db2fcf[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Mar 14 16:04:13 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit d012e5bf80371838f559aa29402876cc2d1c015f[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Mar 14 15:33:56 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit 2924e76b566b196e640bee3b764bc301f3b57cdd[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Sat Mar 14 15:21:23 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit 72a61e8664273033f9a45b3a7c8305fd6b84fe62[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Fri Mar 13 00:25:18 2020 +0800
+
+    Signed-off-by: kenzo <kenzok8@gmail.com>
+
+[33mcommit fe6f797e533a7b561fff8b7ada60e5736968dfb8[m
+Author: kenzok8 <kenzok8@gmail.com>
+Date:   Thu Mar 12 14:55:17 2020 +0800
+
+    Signed-off-by: kenzok8 <kenzok8@gmail.com>
+
+[33mcommit 21549a2c97a06b9ce727e4b2071ba6d5fb08728b[m
+Author: kenzo <kenzok8@gmail.com>
+Date:   Thu Mar 12 01:32:23 2020 +0800
+
+    Signed-off-by: kenzo <kenzok8@gmail.com>
+
+[33mcommit bd293e3b074e0c8c3516d486fd4d40dc20522a33[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Thu Mar 12 01:22:23 2020 +0800
+
+    Update Makefile
+
+[33mcommit d924148af3871876c1e73851c4b61f3c53549351[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Thu Mar 12 00:56:11 2020 +0800
+
+    Create README.md
+
+[33mcommit 5759139f1a9f78d5cb9cd98df2a8078f6056a35b[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue Mar 10 20:05:38 2020 +0800
+
+    Add files via upload
+
+[33mcommit 150c1562d397f55bb7f3416154e9f87e6cce7181[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue Mar 10 20:02:25 2020 +0800
+
+    Add files via upload
+
+[33mcommit a5542a34f18216f776375278b147a581e0674307[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue Mar 10 19:59:47 2020 +0800
+
+    Add files via upload
+
+[33mcommit 1d0d98ba6c870390a336648fcbffaaf570a37f92[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue Mar 10 19:58:21 2020 +0800
+
+    Add files via upload
+
+[33mcommit a8d45ac67b70e4abcf7a9738c3088b3a427ce211[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue Mar 10 19:55:25 2020 +0800
+
+    Add files via upload
+
+[33mcommit 918257b749d7d987c73f7d2fe30662d95129bdcb[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue Mar 10 19:52:44 2020 +0800
+
+    Add files via upload
+
+[33mcommit 1b8a24a7d3afde931cd7d39ef9227c9bf034cc00[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue Mar 10 19:50:58 2020 +0800
+
+    Add files via upload
+
+[33mcommit 21894a86c03da9333f58cd38db661ad376397f45[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue Mar 10 19:47:52 2020 +0800
+
+    Add files via upload
+
+[33mcommit ed6a74e038ce22b421977e825e600897bcd10665[m
+Author: kenzo <39034242+kenzok8@users.noreply.github.com>
+Date:   Tue Mar 10 19:46:45 2020 +0800
+
+    Add files via upload

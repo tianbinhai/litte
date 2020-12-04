@@ -81,6 +81,7 @@ if api.is_finded("ssr-redir") then
 end
 if api.is_finded("xray") then
     type:value("Xray", translate("Xray"))
+    type.description = translate("Xray is currently directly compatible with V2ray and used.")
 end
 if api.is_finded("v2ray") then
     type:value("V2ray", translate("V2ray"))
@@ -132,7 +133,7 @@ balancing_node:depends("protocol", "_balancing")
 
 -- 分流
 uci:foreach(appname, "shunt_rules", function(e)
-    o = s:option(ListValue, e[".name"], translate(e.remarks))
+    o = s:option(ListValue, e[".name"], '<a href="../shunt_rules/' .. e[".name"] .. '">' .. translate(e.remarks) .. "</a>")
     o:value("nil", translate("Close"))
     for k, v in pairs(nodes_table) do o:value(v.id, v.remarks) end
     o:depends("protocol", "_shunt")
@@ -142,10 +143,28 @@ uci:foreach(appname, "shunt_rules", function(e)
     o:depends("protocol", "_shunt")
 end)
 
+shunt_tips = s:option(DummyValue, "shunt_tips", " ")
+shunt_tips.rawhtml = true
+shunt_tips.cfgvalue = function(t, n)
+    return string.format('<a style="color: red" href="../rule">%s</a>', translate("No shunt rules? Click me to go to add."))
+end
+shunt_tips:depends("protocol", "_shunt")
+
 default_node = s:option(ListValue, "default_node", translate("Default") .. " " .. translate("Node"))
 default_node:value("nil", translate("Close"))
 for k, v in pairs(nodes_table) do default_node:value(v.id, v.remarks) end
 default_node:depends("protocol", "_shunt")
+
+domainStrategy = s:option(ListValue, "domainStrategy", translate("Domain Strategy"))
+domainStrategy:value("AsIs")
+domainStrategy:value("IPIfNonMatch")
+domainStrategy:value("IPOnDemand")
+domainStrategy.description = "<br /><ul><li>" .. translate("'AsIs': Only use domain for routing. Default value.")
+.. "</li><li>" .. translate("'IPIfNonMatch': When no rule matches current domain, resolves it into IP addresses (A or AAAA records) and try all rules again.")
+.. "</li><li>" .. translate("'IPOnDemand': As long as there is a IP-based rule, resolves the domain into IP immediately.")
+.. "</li></ul>"
+domainStrategy:depends("protocol", "_balancing")
+domainStrategy:depends("protocol", "_shunt")
 
 -- Brook协议
 brook_protocol = s:option(ListValue, "brook_protocol", translate("Protocol"))
@@ -441,6 +460,8 @@ flow:value("xtls-rprx-origin")
 flow:value("xtls-rprx-origin-udp443")
 flow:value("xtls-rprx-direct")
 flow:value("xtls-rprx-direct-udp443")
+flow:value("xtls-rprx-splice")
+flow:value("xtls-rprx-splice-udp443")
 flow:depends("xtls", "1")
 
 -- [[ TLS部分 ]] --
@@ -640,7 +661,7 @@ ss_aead_pwd:depends("ss_aead", "1")
 -- [[ Mux ]]--
 mux = s:option(Flag, "mux", translate("Mux"))
 mux:depends({ type = "Xray", protocol = "vmess" })
-mux:depends({ type = "Xray", protocol = "vless" })
+mux:depends({ type = "Xray", protocol = "vless", xtls = false })
 mux:depends({ type = "Xray", protocol = "http" })
 mux:depends({ type = "Xray", protocol = "socks" })
 mux:depends({ type = "Xray", protocol = "shadowsocks" })
