@@ -7,7 +7,7 @@
 
 include $(TOPDIR)/rules.mk
 
-LUCI_TITLE:=btmod Theme
+LUCI_TITLE:=btmod_new kenzo
 LUCI_DEPENDS:=
 PKG_VERSION:=1.1
 PKG_RELEASE:=01-2020630
