@@ -21,7 +21,7 @@ define Package/luci-theme-$(THEME_NAME)
   CATEGORY:=LuCI
   SUBMENU:=4. Themes
   DEPENDS:=+libc
-  TITLE:=Tomato new kenzo
+  TITLE:=Mcat new kenzo
   URL:=http://wcan.in/
   PKGARCH:=all
 endef
