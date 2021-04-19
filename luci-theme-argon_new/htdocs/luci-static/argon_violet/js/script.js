@@ -31,6 +31,7 @@
  *  Font generate by Icomoon<icomoon.io>
  */
 (function ($) {
+	$(".main > .loading").hide();
     $(".main > .loading").fadeOut();
 
     /**
@@ -171,7 +172,7 @@
         mainNodeName = mainNodeName.replace(/[ \t\n\r\/]+/g, "_").toLowerCase();
         $("body").addClass(mainNodeName);
     }
-    $(".cbi-button-up").val("");
+    $(".cbi-button-up").val("");
     $(".cbi-button-down").val("");
 
 
@@ -199,12 +200,16 @@
     $(".showSide").click(function () {
         if (showSide) {
             $(".darkMask").stop(true).fadeOut("fast");
-            $(".main-left").width(0);
+            $(".main-left").stop(true).animate({
+                width: "0"
+            }, "fast");
             $(".main-right").css("overflow-y", "auto");
             showSide = false;
         } else {
             $(".darkMask").stop(true).fadeIn("fast");
-            $(".main-left").width("15rem");
+            $(".main-left").stop(true).animate({
+                width: "15rem"
+            }, "fast");
             $(".main-right").css("overflow-y", "hidden");
             showSide = true;
         }
@@ -215,7 +220,9 @@
         if (showSide) {
             showSide = false;
             $(".darkMask").stop(true).fadeOut("fast");
-            $(".main-left").width(0);
+            $(".main-left").stop(true).animate({
+                width: "0"
+            }, "fast");
             $(".main-right").css("overflow-y", "auto");
         }
     });
@@ -240,7 +247,7 @@
     $(".cbi-section-table-titles, .cbi-section-table-descr, .cbi-section-descr").each(function () {
         var that = $(this);
         if (that.text().trim() == "") {
-            that.css("padding", "0px");
+            that.css("display", "none");
         }
     });
 
