@@ -12,10 +12,10 @@
 
 ```bash
 rm -rf package/litte/microsocks && rm -rf package/litte/redsocks2 && rm -rf package/litte/tcpping
-cp -f package/litte/default-settings package/lean/default-settings/files/zzz-default-settings
-cp -f package/litte/banner package/base-files/files/etc/banner
-cp -f package/litte/Leandiffconfig .config && make defconfig
-./scripts/feeds update -a
+cp -f package/litte/commit/default-settings package/lean/default-settings/files/zzz-default-settings
+cp -f package/litte/commit/banner package/base-files/files/etc/banner
+cp -f package/litte/commit/Leandiffconfig .config && make defconfig
+git pull && ./scripts/feeds update -a
 ./scripts/feeds install -a
 make download -j7 V=s && find dl -size -1024c -exec ls -l {} \;
 make download && make -j$(nproc) V=s
@@ -25,9 +25,9 @@ make download && make -j$(nproc) V=s
 
 ```bash
 rm -rf package/litte/adguardhome && rm -rf package/litte/luci-app-adguardhome
-cp -f package/litte/zzz-default-settings package/default-settings/files/zzz-default-settings
-cp -f package/litte/banner package/base-files/files/etc/banner
-cp -f package/litte/Lienoldiffconfig .config && make defconfig
+cp -f package/litte/commit/zzz-default-settings package/default-settings/files/zzz-default-settings
+cp -f package/litte/commit/banner package/base-files/files/etc/banner
+cp -f package//litte/commit/Lienoldiffconfig .config && make defconfig
 ./scripts/feeds update -a
 ./scripts/feeds install -a
 make download -j7 V=s && find dl -size -1024c -exec ls -l {} \;
@@ -44,11 +44,10 @@ rm -rf package/litte/luci-app-advancedsetting && rm -rf package/litte/luci-app-a
 rm -rf package/litte/gost && rm -rf package/litte/luci-app-gost && rm -rf package/litte/luci-app-eqos
 rm -rf package/ctcgfw/luci-app-openclash && rm -rf package/litte/luci-app-smartdns && rm -rf package/litte/smartdns
 rm -rf package/ctcgfw/luci-theme-atmaterial && rm -rf package/ctcgfw/luci-theme-opentomato && rm -rf package/ctcgfw/luci-theme-mcat
-cp -f package/litte/default-settings package/lean/default-settings/files/zzz-default-settings
-cp -f package/litte/banner package/base-files/files/etc/banner
-cp -f package/litte/ctcdiffconfig .config && make defconfig
-./scripts/feeds update -a
-./scripts/feeds install -a
+cp -f package/litte/commit/default-settings package/lean/default-settings/files/zzz-default-settings
+cp -f package/litte/commit/banner package/base-files/files/etc/banner
+cp -f package/litte/commit/ctcdiffconfig .config && make defconfig
+./scripts/feeds update -a && ./scripts/feeds install -a
 make download -j7 V=s && find dl -size -1024c -exec ls -l {} \;
 make download && make -j$(nproc) V=s
 ```
